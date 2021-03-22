@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "추윤선"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "y.s.CHU the Controller"
+  location         : "대한민국, 경기도"
+  email            : "chu040712@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
