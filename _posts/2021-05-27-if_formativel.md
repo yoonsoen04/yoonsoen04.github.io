@@ -27,7 +27,7 @@ int main(void)
 ~~~
 
 ### 02. 3개의 터널 통과 
-![tunnul](/assets/images/if2.jpg) 
+![tunnul](/assets/images/터널cut.jpg) 
 ~~~c 
 #include <stdio.h> 
 int main(void) 
@@ -48,7 +48,7 @@ int main(void)
 ~~~ 
 
 ### 03. 이 달은 며칠까지 있을까? 
-![callenderl](/assets/images/if3.jpg) 
+![callenderl](/assets/images/매달마지막날cut.jpg) 
 ~~~c 
 #include <stdio.h> 
 int main(void) 
