@@ -48,7 +48,7 @@ int main(void)
 ~~~ 
 
 ### 03. 이 달은 며칠까지 있을까? 
-![callenderl](/assets/images/매달마지막날cut.jpg) 
+![callenderl](/assets/images/매달 마지막날cut.jpg) 
 ~~~c 
 #include <stdio.h> 
 int main(void) 
